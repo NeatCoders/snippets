@@ -7,7 +7,8 @@ type: 'JAVA'
 layout: null
 ---
 
-```package com.jmrchelani;// Java code to generate QR code
+```java
+package com.jmrchelani;// Java code to generate QR code
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
